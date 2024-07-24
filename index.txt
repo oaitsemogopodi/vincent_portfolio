@@ -1,0 +1,118 @@
+Personal Portfolio
+
+# sidebar
+
+Oaitse Vincent Mogopodi
+Software Engineer
+
+Show Contacts
+
+Email
+oaitsemogopodi@gmail.com
+
+Phone
++267 71472963
++267 73065078
+
+Birthday
+July 13, 2001
+
+Location
+Broadhurst, Tsholofelo West, Gaborone
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a computer engineer and UI/UX Designer from Botswana, Gaborone, working as a software developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web designs and Phone applications.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+
+Experience
+
+My skills
+
+Web design
+80%
+
+Mobile applications UI/UX
+70%
+
+Computer hardware knowledge
+80%
+
+Networking fundamentals
+50%
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
